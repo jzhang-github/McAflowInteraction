@@ -1,1 +1,3 @@
 # Coming soon ......
+
+The source code is now available from Dr. ZHAO Shijun <shijzhao@cityu.edu.hk> upon reasonable request.
